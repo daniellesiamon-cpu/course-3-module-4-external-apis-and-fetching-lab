@@ -47,4 +47,4 @@ function displayAlerts(data, state) {
         list.appendChild(item);
     });
     displayDiv.appendChild(list);
-}re!
+}
